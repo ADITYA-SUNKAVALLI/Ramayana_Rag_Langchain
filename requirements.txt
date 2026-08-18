@@ -1,0 +1,8 @@
+langchain
+langchain-core
+langchain-nvidia-ai-endpoints
+langchain-google-genai
+langchain-chroma
+chromadb
+python-dotenv
+streamlit

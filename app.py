@@ -21,7 +21,7 @@ st.set_page_config(
 st.title("🕉️ Ramayana RAG Assistant")
 
 st.caption(
-    "NVIDIA NV-Embed-v1 + ChromaDB + Gemini 2.5 Flash"
+    "Ask quetions about Ramayana"
 )
 
 

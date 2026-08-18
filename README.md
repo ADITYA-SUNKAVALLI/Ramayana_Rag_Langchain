@@ -332,7 +332,7 @@ This makes the application modular and allows individual components to be replac
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/ADITYA-SUNKAVALLI/Ramayana_Rag_Langchain
 cd Ramayana_QA_Chat
 ```
 
